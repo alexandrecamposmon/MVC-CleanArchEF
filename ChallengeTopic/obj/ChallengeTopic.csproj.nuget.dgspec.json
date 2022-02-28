@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic\\ChallengeTopic.csproj": {}
+    "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic\\ChallengeTopic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj": {
+    "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj",
         "projectName": "ChallengeTopic.ApplicationCore",
-        "projectPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj",
+        "projectPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.ApplicationCore\\obj\\",
+        "outputPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj": {
+    "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj",
+        "projectUniqueName": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj",
         "projectName": "ChallengeTopic.Infrastructure",
-        "projectPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj",
+        "projectPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\obj\\",
+        "outputPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -94,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj"
+              "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj": {
+                "projectPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.ApplicationCore\\ChallengeTopic.ApplicationCore.csproj"
               }
             }
           }
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic\\ChallengeTopic.csproj": {
+    "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic\\ChallengeTopic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic\\ChallengeTopic.csproj",
+        "projectUniqueName": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic\\ChallengeTopic.csproj",
         "projectName": "ChallengeTopic",
-        "projectPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic\\ChallengeTopic.csproj",
+        "projectPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic\\ChallengeTopic.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic\\obj\\",
+        "outputPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -180,8 +180,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj"
+              "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj": {
+                "projectPath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj"
               }
             }
           }

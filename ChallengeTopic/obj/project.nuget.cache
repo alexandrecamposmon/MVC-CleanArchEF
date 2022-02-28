@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zp2JjrhQfTyElQQq7U0vm7yVSrkODS2ciErJTZy/F59MrjbE56T0DdVEXfYI/owW+x+Amr7GkGZ08Byt6Uj/+w==",
+  "dgSpecHash": "xPGCzgRWxAY506MFmh6Qm80TcxbEMD4p7QfObONXTtn8+brGqoBUoBKEk+28VljMfync0JAd4066qmLUp67GqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic\\ChallengeTopic.csproj",
+  "projectFilePath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic\\ChallengeTopic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.14\\microsoft.aspnetcore.jsonpatch.5.0.14.nupkg.sha512",

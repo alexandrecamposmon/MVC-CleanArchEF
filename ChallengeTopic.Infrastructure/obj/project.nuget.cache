@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4GwrnVoHy9hwukczhd1n38Bxp3dC3xLuRzjo884kYL34UUk2PJOt2dTsPJFf4crPwiLInrh3oHroaGm2SA7NNw==",
+  "dgSpecHash": "2qU9CNIr7OBrfmgzqAN1UfaoVN1+T5/F0ZayrkDP6EjDJk9K9In9mqG+csmiHsc67i2hTBaZ7V9wG/kAVTFHcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexa\\source\\repos\\ChallengeTopic\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj",
+  "projectFilePath": "C:\\projetos\\GIT-PESSOAL\\MVC-CleanArchEF\\ChallengeTopic.Infrastructure\\ChallengeTopic.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
