@@ -1,0 +1,43 @@
+﻿@model List<ChallengeTopic.ApplicationCore.Models.Topic>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Here is the last ten topics.</p>
+
+</div>
+
+<div class="row text-left">
+
+    <a class="btn btn-success" asp-area="" asp-controller="Topic" asp-action="New">Create new topic</a>
+    @if (Model != null && Model.Any())
+    {
+        foreach (var topic in Model)
+        {
+            <div class="card objCard">
+                <div class="card-body">
+                    <h5 class="card-title">@topic.Title</h5>
+                    <p class="card-text">
+                        @topic.Content
+                    </p>
+                    <a class="btn btn-primary" asp-route-id="@topic.Id" asp-controller="Topic" asp-action="Index">View full topic</a>
+                    <a class="btn btn-primary" asp-route-id="@topic.Id" asp-area="" asp-controller="Topic" asp-action="Edit">Edit</a>
+                    <a class="btn btn-danger" asp-route-id="@topic.Id" asp-area="" asp-controller="Topic" asp-action="DeleteConfirmation">Delete</a>
+                </div>
+                <div class="card-footer">
+                    <label>
+                        Alexandre Campos Montalvão
+                    </label> -
+                    <label>
+                        @topic.CriationDate
+                    </label>
+                </div>
+            </div>
+
+        }
+    }
+</div>
+
+

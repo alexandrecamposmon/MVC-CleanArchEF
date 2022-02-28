@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\bin\Debug\net5.0\ChallengeTopic.ApplicationCore.deps.json
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\bin\Debug\net5.0\ChallengeTopic.ApplicationCore.dll
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\bin\Debug\net5.0\ref\ChallengeTopic.ApplicationCore.dll
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\bin\Debug\net5.0\ChallengeTopic.ApplicationCore.pdb
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.AssemblyInfo.cs
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.dll
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ref\ChallengeTopic.ApplicationCore.dll
+C:\Users\alexa\source\repos\ChallengeTopic\ChallengeTopic.ApplicationCore\obj\Debug\net5.0\ChallengeTopic.ApplicationCore.pdb

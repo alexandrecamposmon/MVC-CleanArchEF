@@ -1,0 +1,32 @@
+﻿@model ChallengeTopic.ApplicationCore.Models.Topic
+@{
+    ViewData["Title"] = "Edit Topic";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Topic</h1>
+    <p>Here you can edit your topic.</p>
+
+</div>
+<form asp-controller="Topic" asp-action="Edit" method="post">
+    <div class="text-left">
+        <div class="row">
+            <div class="mb-3 col-md-6">
+                <label for="Title" class="form-label">Title</label>
+                <input required class="form-control" asp-for="Title">
+            </div>
+            <div class="mb-3 col-md-12">
+                <label for="Content" class="form-label">Content</label>
+                <textarea required class="form-control" asp-for="Content" rows="6"></textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-1">
+                <button type="submit" class="btn btn-success">Save</button>
+            </div>
+            <div class="col-md-1">
+                <a class="btn btn-danger" asp-area="" asp-controller="Home" asp-action="Index">Cancel</a>
+            </div>
+        </div>
+    </div>
+</form>
